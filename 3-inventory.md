@@ -125,7 +125,7 @@ ansible_ssh_private_key_file=/home/ubuntu/.ssh/all-servers-private-key.pem
 [webservers:vars]
 ansible_user=ubuntu
 ansible_ssh_private_key_file=/home/ubuntu/.ssh/web-servers-private-key.pem
-
+```
 
 ##### Custom Inventory file
 
